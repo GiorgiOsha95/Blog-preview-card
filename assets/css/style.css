@@ -38,7 +38,7 @@
 .card {
 	background-color: var(--white-color);
 	border-radius: 20px;
-	padding: var(--spacing-xl);
+	padding: var(--spacing-xl, 24px);
 	max-width: 384px;
 	border: 1px solid var(--primary-gray);
 	box-shadow: 8px 8px 0px 0px #000;
