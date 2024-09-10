@@ -44,7 +44,7 @@
 	box-shadow: 8px 8px 0px 0px #000;
 	display: flex;
 	flex-direction: column;
-	row-gap: var(--spacing-l);
+	row-gap: var(--spacing-xl);
 }
 
 .card:hover {
@@ -68,7 +68,7 @@
 .card-body {
 	display: flex;
 	flex-direction: column;
-	row-gap: var(--spacing-m);  
+	row-gap: var(--spacing-l);  
 }
 
 .card-tag {
